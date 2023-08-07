@@ -1,6 +1,7 @@
 footer{
     border-top: 2px solid #5e5a57;
     text-align: left;
+    border-bottom: 2px solid #5e5a57;;
  
 }
 .container{
@@ -8,6 +9,7 @@ footer{
     flex-direction: row;
     display: inline-flex;
     color: var(--titulos);
+    min-height: 4rem;
 }
 
 span{

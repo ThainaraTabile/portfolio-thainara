@@ -1,24 +1,45 @@
+import Tools from '../../components/Tools';
 import styles from './About.module.css'
-import {FaFolder} from 'react-icons/fa';
 
 export default function About() {
   return (
     <div className={styles.containers}>
-      
+      <article>
+           <div className={styles.lineNumbers}>
+           <pre>
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+      </pre>
+     </div>
       <div class={styles.codeContent}>
-        <p>Graduada em Direito e com especialização em Privacidade e Proteção de Dados, decidi</p>
+        <p>Em um mundo onde pixels se transformam em possibilidades, minha jornada como desenvolvedora web front-end é impulsionada </p>
+          <p>pelo desejo de traduzir ideias em interfaces interativas, responsivas e funcionais.</p>
+       <p> Minha abordagem  é guiada pela combinação de criatividade, atenção aos detalhes,  desenvolvimento de estruturas claras e legíveis.</p>
         <p>direcionar minha trajetória profissional para o mundo do desenvolvimento.</p>
-        <p>Buscando adquirir conhecimentos sólidos nesta área, ingressei no bootcamp de Front End</p>
-        <p>Development na Laboratória Brasil, onde tive a oportunidade de desenvolver diversos projetos utilizando metodologias de desenvolvimento ágil, criação de interfaces a partir de protótipos,</p>
-        <p>consumo de APIs e integração de serviços externos nas aplicações.</p>
-        <p>Durante esse processo, tive a oportunidade de aprofundar meu conhecimento em JavaScript,  HTML, CSS, Git e GitHub, além de adquirir experiência prática com Firebase, Node.js e React.js</p>
-        <p>Ao longo do bootcamp, trabalhei em diversos projetos desafiadores, cada um deles</p>
-        <p>contribuindo para o meu crescimento e ampliação de habilidades. Se quiser conhecer mais detalhes sobre esses projetos e explorar meu trabalho, convido você a visitar meu perfil no 12   GitHub</p>
       </div>
-      <div class={styles.containerTools}>
-      <h2>ferramentas e tecnologias</h2>
-      <span> {`>`} <FaFolder size={20}/></span>
-      </div>
+      </article>
+      <Tools/>
     </div>
 
   )

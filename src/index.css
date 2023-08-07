@@ -4,13 +4,15 @@
   --azul-claro: #74b6e9;
   --titulos: #d5dee4;
   --cinza: #61666b;
+  --cinza-claro: #c4c7cb;
   --cor-fundo: #282c34;
-  --fundo-menu: #0a0f1f;
+  --fundo-menu:  #04040c;
   --borda-menu: #5e5a57;
   --texto-menu: #aa9c82;
   --vermelho: #ff605c;
   --amarelo:  #ffbd44;
   --verde: #00ca4e;
+  --dourado: #896a33;
 }
 
 body {

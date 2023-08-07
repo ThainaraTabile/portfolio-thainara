@@ -1,0 +1,124 @@
+{
+    "explorer": {
+        "skills": [
+          {
+            "id": 1,
+            "name": "consumo de API"
+          },
+          {
+            "id": 2,
+            "name": "prototipagem"
+          },
+          {
+            "id": 3,
+            "name": "metodologias ágeis"
+          }
+        ],
+        "tools": [
+            {
+              "id": 1,
+              "name": "React.js"
+            },
+            {
+              "id": 2,
+              "name": "Node"
+            },
+            {
+              "id": 3,
+              "name": "Javascript"
+            },
+            {
+              "id": 4,
+              "name": "Firebase"
+            },
+            {
+              "id": 5,
+              "name": "Git"
+            },
+            {
+              "id": 6,
+              "name": "Github"
+            },
+            {
+              "id": 7,
+              "name": "HTML & CSS"
+            },
+            {
+                "id": 8,
+                "name": "Jest"
+              }
+          ]
+      },
+      "projects":{
+        "data": [
+            {
+                "id": 1,
+                "name": "Burger Script",
+                "description": "A interface oferece uma solução completa para gerenciamento do fictício restaurante Burger Script, disponibilizando uma plataforma com funcionalidades que atendem as necessidades de cada área do negócio. De acordo com o cargo pertinente, os usuários poderão registrar e gerenciar pedidos, bem como,  listar, adicionar, editar e excluir informações de produtos e colaboradores.",
+                "website":"https://burger-script-two.vercel.app/",
+                "details": "O projeto foi desenvolvido usando o framework React, para o recebimento e processamento dos dados a interface se integra com um mock de API. Para testar a aplicação, utilize alguma das credenciais fornecidas na documentação, você pode acessá-la clicando no link abaixo. ",
+                "repository": "https://github.com/ThainaraTabile/burger-script"
+            },
+            {
+                "id": 2,
+                "name": "Cine Info",
+                "description": "Consiste em uma interface web que exibe uma lista de filmes, incluindo informações relevantes, como imagem, gênero, sinopse, duração e avaliação. Os usuários têm a capacidade de buscar filmes por gênero ou pesquisar pelo título, bem como, ordenar as avaliações de forma crescente ou decrescente.",
+                "website":"https://cine-info-omega.vercel.app/",
+                "details": " O projeto foi desenvolvido usando o framework React, estruturado em componentes reutilizáveis para facilitar a manutenção e o desenvolvimento futuro. Para o recebimento e processamento dos dados a interface se integra com um mock API. O referido mock teve as alterações na base de dados realizada por mim.",
+                "repository": "https://github.com/ThainaraTabile/cine-info"
+            },
+            {
+                "id": 3,
+                "name": "Markdown Links",
+                "description": "Este projeto é composto por uma ferramenta de linha de comando (CLI), a qual permite que o usuário execute a biblioteca diretamente do terminal, através de um módulo do Node.js que analisa os arquivos em formato Markdown. A `CLI` revela os links encontrados, indicando a rota do arquivo onde foi encontrado o link, a URL encontrada e o texto âncora. Também é possível validar os links e fornecer estatísticas sobre os mesmos.",
+                "website":"https://www.npmjs.com/package/md-links-lab",
+                "details": " Para instalar o módulo, execute o seguinte comando no seu terminal: npm install md-links-lab.",
+                "repository": "https://github.com/ThainaraTabile/md-links"
+            },
+            {
+                "id": 4,
+                "name": "Dog Tips",
+                "description": " É uma rede social específica para tutores de cães, com o objetivo de conectar pessoas que compartilham do amor por esses animais de estimação. Os usuários podem criar perfis, compartilhar informações, curtir e descurtir publicações, bem como, editar ou excluir suas próprias publicações.",
+                "website":"https://dog-tips-2023.web.app/#login",
+                "details": " O Firebase foi a escolha de banco de dados para este projeto, o que permitiu fornecer autenticação segura e confiável.",
+                "repository": "https://github.com/ThainaraTabile/SAP009-social-network"
+            },
+            {
+                "id": 5,
+                "name": "",
+                "description": "",
+                "website":"",
+                "details": " ",
+                "repository": ""
+            },
+            {
+                "id": 6,
+                "name": "",
+                "description": "",
+                "website":"",
+                "details": " ",
+                "repository": ""
+            }
+            , {
+                "id": 7,
+                "name": "",
+                "description": "",
+                "website":"",
+                "details": " ",
+                "repository": ""
+            },
+            {
+                "id": 8,
+                "name": "",
+                "description": "",
+                "website":"",
+                "details": " ",
+                "repository": ""
+            }
+        ]
+            
+
+        
+      }
+  }
+  
