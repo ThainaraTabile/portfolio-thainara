@@ -14,16 +14,21 @@
 
 .titleProject{
     color: var(--amarelo);
-   padding: 10px;
+  flex: 1 1 auto;
+   align-items: center;
+   justify-content: center;
+}
+.imgProject{
+    align-items: center;
+    justify-content: flex-start;
+  
 }
 .containerCard{
     text-align: center;
    border: 2px solid var(--cinza-medio);
-   padding: 10px;
+  
    border-radius: 7px;
     flex-direction: column;
-    min-width: 30rem;
-    max-width: 40rem;
     color: var(--cinza-claro);
     box-shadow: 0px 0px 10px rgba(128, 128, 128, 0.5);
     font-family: 'Courier New', Courier, monospace;
@@ -32,7 +37,6 @@
 
 .card{
     background-color:  #0c0d14;
-    padding: 8px;
     text-align: left;
     border: 2px solid #0c0d14;
 }
@@ -60,3 +64,39 @@ color: var(--azul-claro);
 .linkGit{
     color: var(--azul-claro);
 }
+
+@media only screen and (max-width: 767px) {
+
+    .containerCard{
+        width: 20rem;
+        padding: 6px;
+    }
+    .card{
+        padding: 6px;
+    }
+  }
+  
+  
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+
+    .containerCard{
+        width: 30rem;
+        padding: 8px;
+    
+    }
+    .card{
+        padding: 6px;
+    }
+  }
+  
+  @media only screen and (min-width: 1024px) {
+ 
+    .containerCard{
+        width: 40rem;
+        padding: 10px;
+    }
+    .card{
+        padding: 8px;
+    }
+  }
+  

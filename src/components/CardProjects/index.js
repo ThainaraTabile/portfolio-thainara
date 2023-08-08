@@ -9,6 +9,7 @@ export default function CardProjects() {
                 data.projects.data.map(project => (
                     <div className={styles.containerCard} key={project.id} >
                         <h4 className={styles.titleProject}> {project.name}</h4>
+                        <img src={project.image} alt={project.name} className={styles.imgProject}/>
                         <div className={styles.card}>
                             <p> {project.description}</p>
                             <span className={styles.spanCard}>

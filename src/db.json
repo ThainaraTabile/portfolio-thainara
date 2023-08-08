@@ -54,7 +54,8 @@
             {
                 "id": 1,
                 "name": "Burger Script",
-                "description": "A interface oferece uma solução completa para gerenciamento do fictício restaurante Burger Script, disponibilizando uma plataforma com funcionalidades que atendem as necessidades de cada área do negócio. De acordo com o cargo pertinente, os usuários poderão registrar e gerenciar pedidos, bem como,  listar, adicionar, editar e excluir informações de produtos e colaboradores.",
+                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/1.webp",
+                "description": "A interface oferece uma solução completa para gerenciamento do fictício restaurante Burger Script, disponibilizando uma plataforma com funcionalidades que atendem as necessidades de cada área do negócio. Os usuários poderão registrar e gerenciar pedidos, bem como,  listar, adicionar, editar e excluir informações de produtos e colaboradores.",
                 "website":"https://burger-script-two.vercel.app/",
                 "details": "Para testar a aplicação, utilize alguma das credenciais fornecidas na documentação do projeto, você pode acessá-la clicando no link abaixo. ",
                 "repository": "https://github.com/ThainaraTabile/burger-script"
@@ -62,6 +63,7 @@
             {
                 "id": 2,
                 "name": "Cine Info",
+                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/2.webp",
                 "description": "Consiste em uma interface web que exibe uma lista de filmes, incluindo informações relevantes, como imagem, gênero, sinopse, duração e avaliação. Os usuários têm a capacidade de buscar filmes por gênero ou pesquisar pelo título, bem como, ordenar as avaliações de forma crescente ou decrescente.",
                 "website":"https://cine-info-omega.vercel.app/",
                 "details": " O projeto foi desenvolvido usando o framework React, estruturado em componentes reutilizáveis para facilitar a manutenção e o desenvolvimento futuro. Para o recebimento e processamento dos dados a interface se integra com um mock API.",
@@ -70,6 +72,7 @@
             {
                 "id": 3,
                 "name": "Markdown Links",
+                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/3.webp",
                 "description": "Este projeto é composto por uma ferramenta de linha de comando (CLI) que analisa os arquivos em formato Markdown, revelando os links encontrados, indicando a rota do arquivo onde foi encontrado o link, a URL encontrada e o texto âncora. Também é possível validar os links e fornecer estatísticas sobre os mesmos.",
                 "website":"https://www.npmjs.com/package/md-links-lab",
                 "details": " Para instalar o módulo, execute o seguinte comando no seu terminal: npm install md-links-lab.",
@@ -78,6 +81,7 @@
             {
                 "id": 4,
                 "name": "Dog Tips",
+                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/4.webp",
                 "description": " É uma rede social específica para tutores de cães, com o objetivo de conectar pessoas que compartilham do amor por esses animais de estimação. Os usuários podem criar perfis, compartilhar informações, curtir e descurtir publicações, bem como, editar ou excluir suas próprias publicações.",
                 "website":"https://dog-tips-2023.web.app/#login",
                 "details": " O Firebase foi a escolha de banco de dados para este projeto, o que permitiu fornecer autenticação segura e confiável.",
@@ -86,6 +90,7 @@
             {
                 "id": 5,
                 "name": "Cifra de César",
+                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/5.webp",
                 "description": "Interface que permite ao usuário codificar e descodificar mensagens, possibilitando que o usuário indique um deslocamento específico de caracteres (offset), copie ou limpe o texto em apenas um click.",
                 "website":"https://cipher-9falfw4t8-thainaratabile.vercel.app/",
                 "details": " ",
@@ -94,6 +99,7 @@
             {
                 "id": 6,
                 "name": "Desafio Front-End",
+                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/6.webp",
                 "description": "Solução de aplicação web desenvolvida em 3 dias, para a empresa Loggi durante o hackaton Talent Fest Brasil 2023 da Laboratória. A aplicação permite que o usuário realize o rastreamento de seus pedidos, a busca por um código de rastreamento básico retornará informações detalhadas sobre o status, histórico do do pedido, endereço de coleta e entrega, bem como, nome completo do cliente e mensageiro.",
                 "website":"https://desafio-frontend-ten-xi.vercel.app/",
                 "details": "Para testar a aplicação, utilize os números de pedidos disponíveis na documentação do projeto.",
@@ -102,6 +108,7 @@
             , {
                 "id": 7,
                 "name": "Data Lovers",
+                "image": "https://raw.githubusercontent.com/ThainaraTabile/portfolio-thainara/main/src/assets/7.webp",
                 "description": " Tem como objetivo ajudar jogadores e novos jogadores a conhecerem melhor os campeões presentes em League of Legends apresentando informações como tipo e nível de ataque, defesa, magia e dificuldade de cada campeão, bem como, disponibiliza um filtro de pesquisa através do nome do campeão.",
                 "website":"https://sap-009-data-lovers.vercel.app/",
                 "details": " ",
