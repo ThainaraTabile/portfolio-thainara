@@ -1,41 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
 
-/* .container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-}
-.title{
-    font-family: 'Courier New', Courier, monospace;
-    padding: 30px;
-    text-align: center;
-}
-
-.card{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: #0c0d14;
-    color: var(--cinza-claro);
-    max-width: 40rem;
-   
-}
-.titleProject{
-    color: var(--amarelo);
-    text-align: left;
-}
-
-.containerCard{
-    text-align: center;
-    background-color: aliceblue;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-} */
-
 .container{
     display: flex;
     align-items: center;
